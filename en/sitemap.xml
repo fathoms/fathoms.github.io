@@ -3,13 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://fathoms.github.io/about/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://fathoms.github.io/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-21T14:29:20+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -23,6 +18,41 @@
   </url>
   
   <url>
+    <loc>https://fathoms.github.io/posts/</loc>
+    <lastmod>2019-11-21T14:29:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fathoms.github.io/posts/2019/11/stub-post/</loc>
+    <lastmod>2019-11-21T14:29:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fathoms.github.io/tags/</loc>
+    <lastmod>2019-11-21T14:29:20+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fathoms.github.io/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fathoms.github.io/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://fathoms.github.io/tags/untagged/</loc>
+    <lastmod>2019-11-21T14:29:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fathoms.github.io/about/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://fathoms.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -33,20 +63,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://fathoms.github.io/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://fathoms.github.io/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fathoms.github.io/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://fathoms.github.io/tags/"
                 />
   </url>
   

@@ -1,0 +1,23 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Hello Friend NG</title>
+        <link>https://fathoms.github.io/posts/</link>
+        <description>Recent content in Posts on Hello Friend NG</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+        <lastBuildDate>Thu, 21 Nov 2019 14:29:20 +0000</lastBuildDate>
+        <atom:link href="https://fathoms.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Stub Post</title>
+            <link>https://fathoms.github.io/posts/2019/11/stub-post/</link>
+            <pubDate>Thu, 21 Nov 2019 14:29:20 +0000</pubDate>
+            
+            <guid>https://fathoms.github.io/posts/2019/11/stub-post/</guid>
+            <description>This stub post was edited in vim.</description>
+            <content type="html"><![CDATA[<p>This stub post was edited in vim.</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>
