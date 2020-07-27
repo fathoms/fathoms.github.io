@@ -3,12 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/posts/</loc>
+    <loc>/posts/2019/11/beginning-with-bandit/</loc>
     <lastmod>2019-11-21T14:29:20+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/2019/11/stub-post/</loc>
+    <loc>/tags/overthewire/</loc>
+    <lastmod>2019-11-21T14:29:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/</loc>
     <lastmod>2019-11-21T14:29:20+00:00</lastmod>
   </url>
   
@@ -40,11 +45,6 @@
                 hreflang="en"
                 href="/"
                 />
-  </url>
-  
-  <url>
-    <loc>/tags/untagged/</loc>
-    <lastmod>2019-11-21T14:29:20+00:00</lastmod>
   </url>
   
   <url>

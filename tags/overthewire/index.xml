@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>深み</title>
-    <link>/</link>
-    <description>Recent content on 深み</description>
+    <title>overthewire on 深み</title>
+    <link>/tags/overthewire/</link>
+    <description>Recent content in overthewire on 深み</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Thu, 21 Nov 2019 14:29:20 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/overthewire/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,15 +20,6 @@
       <description>When I began the Bandit wargame on OverTheWire dot org, I didn&amp;rsquo;t expect to finish it. In the event that I did, I told myself I&amp;rsquo;d make a
 Then I would put a write up on it. Due to unforseen circumstances, I accomplished all three things. The write up turned out to be the most Herculean task of them all.
 As I sat there redoing the challenges from start to finish, fetching my commands, arranging them into some easily digestible sequence that would fit my narrative, I realised something.</description>
-    </item>
-    
-    <item>
-      <title>whoami</title>
-      <link>/about/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/about/</guid>
-      <description>I like writing self-indulgent posts about various topics and flinging them into cyberspace in the naive hope that someone - somewhere - will get something out of them.</description>
     </item>
     
   </channel>
